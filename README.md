@@ -7,9 +7,10 @@ https://github.com/user-attachments/assets/8a0b4b5a-991f-4e48-a75a-e3b8b0b3332e
 ## Strawberry Game
 ColorGenBerry also known as the strawberry game has the mission of performing concentration exercises by playing a short game where the player can concentrate, perform one or two tasks at a time, count numbers, distract themselves to voluntarily change the focus of attention from their thoughts and sensations to another stimulus that allows them to reduce anxiety and train attention. In the game, the player will have control of a strawberry. This strawberry will go up or down depending on what the player decides. The strawberry's objective is to reach the finish line, but in order to get there, the player will have to help the strawberry on its journey, avoiding the obstacles that are in the way, and freely, depending on the player, collecting extra coins every time the strawberry makes contact with another strawberry of a similar color.
 ## How to test the game?
-**Easy METHOD:**
-<br>**Go to [ColorGenBerry Executable(EXE) Repository](https://github.com/mmejiasGitHub/ColorGenBerry) and Download it.**
-<br>The executable runs on windows, mac and linux platforms.
+> [!IMPORTANT]
+>**Easy METHOD:**
+><br>**Go to [ColorGenBerry Executable(EXE) Repository](https://github.com/mmejiasGitHub/ColorGenBerry) and Download it.**
+><br>The executable runs on windows, mac and linux platforms.
 
 **Alternative METHODs:**
 <br>To test the game, you need to have the Unity game engine installed on your computer.
@@ -27,7 +28,8 @@ ColorGenBerry also known as the strawberry game has the mission of performing co
 - **To add project from repository:** Just do a git clone <PROJECT_URL>
 A folder with the project contents will be created in the current path. Then you just open it with Unity. You'll have an Assets folder somewhere inside your project folder, the parent of this Asset folder should be the Unity project folder, so just browse to it on Unity and open it.
 
-## ColorGenBerry User Manual
+> [!TIP]
+>## ColorGenBerry User Manual
 ![Screenshot 2024-10-10 214240](https://github.com/user-attachments/assets/227c110b-c89f-42e7-9d8d-2e640268525f)
 ![Screenshot 2024-10-10 213604](https://github.com/user-attachments/assets/f58601c4-bc4c-4cfc-9c95-b18634324b2c)
 ![Screenshot 2024-10-10 213636](https://github.com/user-attachments/assets/78526953-e847-435b-81fd-6645d67d830a)
